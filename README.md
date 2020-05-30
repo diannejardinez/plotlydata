@@ -1,7 +1,7 @@
 **Objective**: Deploying Plotly projects with a local data file to GitHub Pages
 
 
-**Activity 7**
+### Activity 7
 
 Link to Activity 7 index.html: https://diannejardinez.github.io/plotlydata/Activity_07
 
@@ -9,7 +9,7 @@ Link to data: https://diannejardinez.github.io/plotlydata/Activity_07/data/data.
 
 ---
 
-**Activity 8**
+### Activity 8
 
 Link to Activity 8 index.html: https://diannejardinez.github.io/plotlydata/Activity_08
 
