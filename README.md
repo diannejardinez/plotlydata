@@ -1,3 +1,5 @@
+**Objective**: Deploying Plotly projects with a local data file to GitHub Pages
+
 
 **Activity 7**
 
