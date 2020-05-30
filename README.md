@@ -13,4 +13,4 @@ Link to data: https://diannejardinez.github.io/plotlydata/Activity_07/data/data.
 
 Link to Activity 8: https://diannejardinez.github.io/plotlydata/Activity_08/index.html
 
-Link to data: https://diannejardinez.github.io/plotlydata/Activity_07/data/data.json
+Link to data: https://diannejardinez.github.io/plotlydata/Activity_08/data/data.json
